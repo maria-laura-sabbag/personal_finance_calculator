@@ -1,0 +1,38 @@
+{
+  "incomes": [
+    {
+      "source": "Job",
+      "amount": 1000.0
+    },
+    {
+      "source": "Internet Content",
+      "amount": 100.0
+    }
+  ],
+  "expenses": [
+    {
+      "description": "Meat",
+      "category": "Groceries",
+      "amount": 100.0,
+      "date": "2026-02-22"
+    },
+    {
+      "description": "Vegetables",
+      "category": "Groceries",
+      "amount": 50.0,
+      "date": "2026-02-22"
+    },
+    {
+      "description": "Gas",
+      "category": "trasportation",
+      "amount": 50.0,
+      "date": "2026-02-22"
+    },
+    {
+      "description": "Clothes",
+      "category": "other",
+      "amount": 424.0,
+      "date": "2026-02-22"
+    }
+  ]
+}

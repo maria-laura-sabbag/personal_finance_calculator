@@ -1,0 +1,16 @@
+=== Personal Finance Manager Data Export ===
+
+[INCOMES]
+1. Source: Job | Amount: 1000.00
+2. Source: Internet Content | Amount: 100.00
+
+[EXPENSES]
+1. Date: 2026-02-22 | Category: Groceries | Description: Meat | Amount: 100.00
+2. Date: 2026-02-22 | Category: Groceries | Description: Vegetables | Amount: 50.00
+3. Date: 2026-02-22 | Category: trasportation | Description: Gas | Amount: 50.00
+4. Date: 2026-02-22 | Category: other | Description: Clothes | Amount: 424.00
+
+[SUMMARY]
+Total Income: 1100.00
+Total Expenses: 624.00
+Remaining Balance: 476.00
