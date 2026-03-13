@@ -25,6 +25,11 @@ test_finance_core.py – basic unit tests
 
 This project was developed as part of my computer science coursework to practice programming concepts and financial data management.
 
+## Example Output
+
+![Example Output](<img width="432" height="232" alt="image" src="https://github.com/user-attachments/assets/df98428b-c335-4fd5-b022-0bc0e1642ad3" />
+)
+
 ## Author
 
 Maria Laura Bertozo Sabbag
