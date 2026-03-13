@@ -27,7 +27,7 @@ This project was developed as part of my computer science coursework to practice
 
 ## Example Output
 
-![Example Output](Week_7_Assigment.pdf)
+![Example Output](<Week_7_Assigment.pdf>)
 
 ## Author
 
